@@ -20,7 +20,13 @@ Expert in:
 * [DevOps] - Jenkins, Ansible, Docker AWS CloudFormation
 * [Angular] - Version 6 & 9
 
-Almost 4 years experienced Full Stack Developer with a proven record in Development and Cloud Technology in IT. Adept at developing solutions, procedures & service standards for project transformation and business excellence. Proficient in designing effective solutions for cloud deployment, transitioning multiple projects & ensuring seamless delivery of services.
+### About
+
+4 years experienced Full Stack Developer with a proven record in Development and Cloud Technology in IT. Adept at developing solutions, procedures & service standards for project transformation and business excellence. Proficient in designing effective solutions for cloud deployment, transitioning multiple projects & ensuring seamless delivery of services.
+
+Download my [Resume](https://github.com/ShivakumarRavi/ShivakumarRavi/blob/master/Resume.pdf)
+
+[Gist Profile](https://gist.github.com/ShivakumarRavi)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivakumarRavi&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivakumarRavi)](https://github.com/ShivakumarRavi/ShivakumarRavi)
 
