@@ -2,8 +2,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShivakumarRavi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivakumarmcet/)  
 
-- 🔭 I’m currently working on [Creating web site for taking online classes](https://tutorialstore-b4c9c.web.app/)
-- 🌱 I’m currently learning AWS Machine Learning.
+- 🔭 I’m currently working at Capgemini as a AWS Cloud Consultant.
 - 👯 I’m looking to collaborate on Open source projects.
 - 🤔 I’m looking for help with my career as a mentor.
 - 💬 Ask me about Full stack web devlopment and AWS Cloud Services.
@@ -17,12 +16,11 @@ Expert in:
 
 * [AWS] - AWS Cloud Services (IaaS, PaaS, SaaS)
 * [Python] - Version 3
-* [DevOps] - Jenkins, Ansible, Docker AWS CloudFormation
-* [Angular] - Version 6 & 9
+* [DevOps] - Terraform, AWS CloudFormation
 
 ### About
 
-4 years experienced Full Stack Developer with a proven record in Development and Cloud Technology in IT. Adept at developing solutions, procedures & service standards for project transformation and business excellence. Proficient in designing effective solutions for cloud deployment, transitioning multiple projects & ensuring seamless delivery of services.
+5 years experienced Full Stack Developer with a proven record in Development and Cloud Technology in IT. Adept at developing solutions, procedures & service standards for project transformation and business excellence. Proficient in designing effective solutions for cloud deployment, transitioning multiple projects & ensuring seamless delivery of services.
 
 Download my [Resume](https://github.com/ShivakumarRavi/ShivakumarRavi/blob/master/Resume.pdf)
 
